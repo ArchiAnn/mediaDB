@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="mediaDB.UploaderImpl">
+    <void property="name">
+     <string>ln</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

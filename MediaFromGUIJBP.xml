@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="mediaDB.AudioImpl">
+    <void property="name">
+     <string>D</string>
+    </void>
+    <void property="uploadDate">
+     <object class="java.util.Date">
+      <long>1655227690809</long>
+     </object>
+    </void>
+    <void property="uploader">
+     <object class="mediaDB.UploaderImpl" id="UploaderImpl0">
+      <void property="name">
+       <string>ln</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="mediaDB.AudioImpl">
+    <void property="name">
+     <string>D</string>
+    </void>
+    <void property="uploadDate">
+     <object class="java.util.Date">
+      <long>1655227699375</long>
+     </object>
+    </void>
+    <void property="uploader">
+     <object idref="UploaderImpl0"/>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
